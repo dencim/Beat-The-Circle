@@ -1,0 +1,7 @@
+*.meta
+#!*.*.meta
+StandardAssets/*
+Scripts/Ads.cs
+Scripts/SocialPlatform.cs
+Plugins/*
+GooglePlayGames/*
